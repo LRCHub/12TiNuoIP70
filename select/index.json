@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ひそかな願い。",
+  "base_artist": "Yuika",
+  "createdAt": "2025-12-29T15:33:39.014273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひそかな願い。 (悄悄的愿望)",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/01_ひそかな願い。_(悄悄的愿望)_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひそかな願い。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/02_ひそかな願い。_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひそかな願い。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_ひそかな願い。_『ユイカ』.txt"
+    }
+  ]
+}
